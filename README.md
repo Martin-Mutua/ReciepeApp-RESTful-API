@@ -1,1 +1,1 @@
-# ReciepeApp-RESTful-API
+# RecipeApp-RESTful-API

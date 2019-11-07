@@ -1,0 +1,25 @@
+{
+  "name": "recipeapp-restful-api",
+  "version": "1.0.0",
+  "description": "api for My-Yums.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Mutua/RecipeApp-RESTful-API.git"
+  },
+  "author": "Martin Mutua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Mutua/RecipeApp-RESTful-API/issues"
+  },
+  "homepage": "https://github.com/Martin-Mutua/RecipeApp-RESTful-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  }
+}
